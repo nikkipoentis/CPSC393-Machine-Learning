@@ -1,7 +1,7 @@
 1) Identifying Information
 - Full Name: Nikki Poentis
 - Course number and Section: CPSC 393-01
-- Assignment: 2
+- Assignment: 2 (Binary/Multi-class Classification & Regression w/NNs)
 
 2) List of source files submitted
 - Assignment2.pdf
