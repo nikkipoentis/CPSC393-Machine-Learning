@@ -1,7 +1,7 @@
 1) Identifying Information
 - Full Name: Nikki Poentis
 - Course number and Section: CPSC 393-01
-- Assignment: 1
+- Assignment: 1 (SVM Classification)
 
 2) List of source files submitted
 - Assignment1.pdf
